@@ -1,9 +1,3 @@
-# mytwitterbot.py
-# IAE 101, Fall 2020
-# Project 04 - Building a Twitterbot
-# Name:       
-# netid:      
-# Student ID:
 import datetime
 import sys
 import time
