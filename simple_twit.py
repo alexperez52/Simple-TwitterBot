@@ -1,5 +1,4 @@
 # SimpleTwit.py
-# IAE 101, Fall 2020
 # Author: Christopher Kane
 
 import tweepy
